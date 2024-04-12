@@ -77,7 +77,7 @@ void Cheat()
 		Exit();
 	}
 	MenuConfig::path = documentsPath;
-	MenuConfig::path += "\\AimStar";
+	MenuConfig::path += "\\HelloCS";
 
 	switch (ProcessStatus) {
 	case 1:
